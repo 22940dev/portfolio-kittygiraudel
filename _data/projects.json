@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Simplified JavaScript Jargon",
+    "description": "A community-driven attempt at explaining JavaScript concepts and buzzwords.",
+    "link": "https://jargon.js.org",
+    "category": "JavaScript",
+    "showcase": true,
+    "stars": 2200
+  },
+  {
+    "name": "Sass Guidelines",
+    "description": "An opinionated styleguide for writing sane, maintainable and scalable Sass.",
+    "link": "https://sass-guidelin.es",
+    "category": "Sass",
+    "showcase": true,
+    "stars": 700
+  },
+]
