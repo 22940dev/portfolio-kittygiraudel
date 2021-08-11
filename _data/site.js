@@ -1,8 +1,8 @@
 module.exports = {
-  url: 'https://portfolio-kittygiraudel.vercel.app',
+  url: 'https://portfolio-kittygiraudel-theta.vercel.app',
   description:
-    'I’m Kitty Testing, a non-binary web developer based in Virginia, focused on accessibility and inclusivity.',
-  author: 'Kitty Giraudel',
+    'I’m 22940dev, a non-binary web developer based in Virginia, focused on accessibility and inclusivity.',
+  author: 'Bill Lumberg',
   environment: process.env.NODE_ENV,
   time: new Date(),
   pubDate: new Date(2012, 10, 10),
@@ -10,7 +10,6 @@ module.exports = {
     { path: '/blog/', label: 'Blog' },
     { path: '/projects/', label: 'Projects' },
     { path: '/snippets/', label: 'Snippets' },
-    { path: '/talks/', label: 'Talks' },
     { path: '/about/', label: 'About' },
   ],
 }
